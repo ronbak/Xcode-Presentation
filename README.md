@@ -9,3 +9,17 @@
 >"Integrated Development Environment", which includes a text editor, debugger, compiler/builder with previews, all in one
 
 -Meant for the development of iPhone apps, Mac desktop apps, etc.
+
+-You can write and compile C, C++, Java, Python, Ruby, and more, including...**Swift**.
+
+##What is Swift?
+
+![swift](http://img.deusm.com/informationweek/2015/09/1322066/Swift_logo.png)
+
+It's Apple's own programming language! Some argue that Xcode's IDE works best with Swift, since Apple created both. It's open-source, with several frameworks already created for it or in progress.
+
+###Check out how great the Xcode/Apple Developer/Swift Docs are!
+https://developer.apple.com/reference/
+https://developer.apple.com/reference/swift
+
+
